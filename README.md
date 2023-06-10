@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Aaryea is a fourth year student at the University of Washington majoring in Mechanical Engineering with a focus in Mechanical design. He has an interest in Cybersecurity Risk management, Data Science, and DevOps. 
+Aaryea is a fourth year student at the University of Washington majoring in Mechanical Engineering with a focus in Mechanical design. He has an interest in Cybersecurity Risk management, Data Science, and DevOps. He is open to collaborate on any project regarding cybersecurity, data science, and DevOps, and is hoping to start a career in those fields.
 
 <!--
 **Aaryea/Aaryea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
